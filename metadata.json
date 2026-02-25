@@ -1,0 +1,8 @@
+{
+  "name": "Chinese Speaking Small Group Class H5（Indonesia）",
+  "description": "A high-conversion landing page for Chinese language courses featuring trial lessons, dual-teacher choices, and comprehensive curriculum details for Indonesian students.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
